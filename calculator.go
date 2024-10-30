@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/joaopapereira/versioned-module/pkg/calculator"
+	"github.com/joaopapereira/versioned-module/v2/pkg/calculator"
 )
 
 func main() {
 	fmt.Println("Going to do some math")
-	calculator.Add(1, 1)
+	calculator.AddString("1", "1")
 }
