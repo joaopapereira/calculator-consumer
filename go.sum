@@ -1,2 +1,2 @@
-github.com/joaopapereira/versioned-module/v2 v2.0.0 h1:5Ov8KTdJACl0w6aL0lWmTrk1nQVcPQrElNjM7FVqm9c=
-github.com/joaopapereira/versioned-module/v2 v2.0.0/go.mod h1:XtwGYC+fZU3FFGE6QRwvR2QZvR2nwxwNoi0+cCWx7Bc=
+github.com/joaopapereira/versioned-module/v3 v3.0.0-20241030154732-42acd06bb6cc h1:IHbsXoZlxbGH++4BHMBNv25nxs6yKvDadbr+AY+dXkE=
+github.com/joaopapereira/versioned-module/v3 v3.0.0-20241030154732-42acd06bb6cc/go.mod h1:SGeqOzkEwsdGykyMBkQz54CsERgwdrlmgeAopApM3lE=
