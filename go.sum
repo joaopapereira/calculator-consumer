@@ -1,0 +1,4 @@
+github.com/joaopapereira/versioned-module v0.0.0-20241030150811-09d4f69de59e h1:kWat+ogZPp94okD5LInY6PfuG6lJom602aLMMOXhOA0=
+github.com/joaopapereira/versioned-module v0.0.0-20241030150811-09d4f69de59e/go.mod h1:9o39qzvGieSngK4f6Qc8LCEj82ch2ywmdHXp6sexl6o=
+github.com/joaopapereira/versioned-module v1.0.0 h1:kEx1M9UXU40HMIF8KoVCp4RzukabtIunvS/eyAYR7Ro=
+github.com/joaopapereira/versioned-module v1.0.0/go.mod h1:9o39qzvGieSngK4f6Qc8LCEj82ch2ywmdHXp6sexl6o=
